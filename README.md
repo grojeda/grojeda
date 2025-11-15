@@ -28,7 +28,7 @@ german run \
   --hobbies gardening
 ```
 
-### Expected output:
+### 📤 Expected output
 ```bash
 > Building real-world tools
 > Maintaining simple, sustainable solutions
