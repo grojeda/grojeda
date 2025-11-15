@@ -1,16 +1,37 @@
-## Hi there 👋
+## `Germán` – Fullstack Developer
 
-<!--
-**grojeda/grojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Important:** It's *Germán* — a Spanish name.  
+> Not the language, not the nationality.
 
-Here are some ideas to get you started:
+### 📦 Installation
+```bash
+npm install german
+# or
+pip install german
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔌 Pre-installed modules
+```bash
+- Fullstack development mindset
+- Applied AI (RAG, embeddings, local LLMs)
+- Homelab and systems (Proxmox, LXC, pipelines)
+- Practical problem-solving and simplification
+```
+
+### 🚀 Usage
+```bash
+german run \
+  --company plainconcepts \
+  --location spain \
+  --mode fullstack \
+  --pets chickens \
+  --hobbies gardening
+```
+
+### Expected output:
+```bash
+> Building real-world tools
+> Maintaining simple, sustainable solutions
+> Experimenting with AI + automation
+> Keeping things running smoothly (including the chickens and the garden)
+```
